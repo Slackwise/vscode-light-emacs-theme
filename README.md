@@ -1,4 +1,4 @@
-<h3 align="center">Visual Studio Code Dark+ for Emacs</h3>
+<h3 align="center">Visual Studio Code Dark for Emacs</h3>
 <hr/>
 
 
@@ -13,21 +13,21 @@
 
 <br/>
 
-<p align="center">A complete port of the default Visual Studio Code Dark+ theme for Emacs</p>
+<p align="center">A complete port of the default Visual Studio Code Dark theme for Emacs</p>
 
 <br/>
 <br/>
 
 #### Installation: manual install
 
-Download `vscode-dark-plus-theme.el` and put it under `~/.emacs.d/themes/` (or `~/.config/emacs/themes/`), then add these lines to your `init.el`:
+Download `vscode-dark-theme.el` and put it under `~/.emacs.d/themes/` (or `~/.config/emacs/themes/`), then add these lines to your `init.el`:
 
 ```
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 # or
 (add-to-list 'custom-theme-load-path "~/.config/emacs/themes/")
 
-(load-theme vscode-dark-plus t)
+(load-theme vscode-dark t)
 ```
 
 #### Screenshots
