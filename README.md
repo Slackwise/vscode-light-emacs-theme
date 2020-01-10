@@ -13,10 +13,14 @@
 
 <br/>
 
-<p align="center">A complete port of the default Visual Studio Code Dark theme for Emacs</p>
+<p align="center">A complete port of the Visual Studio Code Dark theme for Emacs</p>
 
 <br/>
 <br/>
+
+#### Note:
+
+This is the Visual Studio Code Dark theme (the more **minimal** one), if you're looking for the more colorful **default Dark+** theme, it's [here](https://github.com/ianpan870102/vscode-dark-plus-emacs-theme).
 
 #### Installation: manual install
 
