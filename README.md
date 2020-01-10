@@ -31,7 +31,7 @@ Download `vscode-dark-theme.el` and put it under `~/.emacs.d/themes/` (or `~/.co
 # or
 (add-to-list 'custom-theme-load-path "~/.config/emacs/themes/")
 
-(load-theme vscode-dark t)
+(load-theme 'vscode-dark t)
 ```
 
 #### Screenshots
