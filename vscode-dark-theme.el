@@ -1,6 +1,6 @@
 ;;; vscode-dark-theme.el --- a complete port of the Visual Studio Code Dark theme for Emacs
 
-;; Copyright (C) 2019 , Ian Y.E. Pan
+;; Copyright (C) 2020 , Ian Y.E. Pan
 
 ;; Author: Ian Y.E. Pan
 
@@ -327,4 +327,4 @@
 
 (provide-theme 'vscode-dark)
 
-;;; wilmersdorf-theme.el ends here
+;;; vscode-dark-theme.el ends here
